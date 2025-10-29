@@ -3,17 +3,17 @@
 </div>
 
 
-<h2 align="center">Hi👋, I'm Paras Chauhan</h2>
-<h3 align="center">A Passionate Unity & WYSIWYG Developer </h3>
+<h3 align="center">Hi👋, I'm Paras Chauhan</h3>
+<h4 align="center">A Passionate Unity & WYSIWYG Developer </h4>
 
 
 ### 👨‍💻 About Me
 
-My journey into technology began when I was just 12 — inspired by my uncle, a senior iOS and Android developer. Since then, I’ve explored macOS, Windows, Android, and iOS environments, which deepened my passion for software development.  
+- My journey into technology began when I was just 12 — inspired by my uncle, a senior iOS and Android developer. Since then, I’ve explored macOS, Windows, Android, and iOS environments, which deepened my passion for software development.  
 
-At 18, I started my professional journey as a **Junior Unity Developer** at **Rydot Infotech Pvt. Ltd.**, where I worked on projects like **Slingshot**, enhancing performance, implementing socket-based communication via QR codes, and upgrading Unity environments.  
+- At 18, I started my professional journey as a **Junior Unity Developer** at **Rydot Infotech Pvt. Ltd.**, where I worked on projects like **Slingshot**, enhancing performance, implementing socket-based communication via QR codes, and upgrading Unity environments.  
 
-I’m enthusiastic about **game development**, **frontend technologies**, and **creative problem-solving**, constantly learning and building projects that blend functionality with design.
+- I’m enthusiastic about **game development**, **frontend technologies**, and **creative problem-solving**, constantly learning and building projects that blend functionality with design.
 
 ---
 
@@ -47,26 +47,30 @@ I’m enthusiastic about **game development**, **frontend technologies**, and **
 ---
 
 ### 📫 Connect with Me
+📧 **theparaschauhan@gmail.com**
 
 <p align="left">
-<a href="https://twitter.com/theparaschauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theparaschauhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/paras-chauhan-447b0b253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paras-chauhan-447b0b253" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/chauhanparas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chauhanparas" height="30" width="40" /></a>
+  <a href="https://twitter.com/theparaschauhan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/paras-chauhan-447b0b253/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/chauhanparas" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
 </p>
-
-📧 **theparaschauhan@gmail.com**
 
 ---
 
 ### 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=theparaschauhan&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=theparaschauhan&theme=dracula" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theparaschauhan&layout=compact&theme=dracula" height="150" alt="languages graph" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theparaschauhan&show_icons=true&theme=radical&border_radius=10" height="160" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=theparaschauhan&theme=radical&border_radius=10" height="160" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theparaschauhan&layout=compact&theme=radical&border_radius=10" height="160" alt="languages graph" />
 </div>
 
 ---
 
 ### ✨ Fun Fact
-When I’m not coding, I enjoy exploring design trends, gaming, and discovering new Unity assets that make development faster and more efficient.
+Outside of coding, I love experimenting with design ideas, gaming for inspiration, and discovering new software that sparks creativity in development.
