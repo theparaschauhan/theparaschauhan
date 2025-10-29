@@ -32,7 +32,7 @@
 ### 🛠️ Skills & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=unity,cs,c,html,css,tailwind,js,wordpress,git" height="60" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,c,html,css,git,wordpress" height="60" alt="skills logos" />
 </div>
 
 - **Game Development**: Unity, C#  
