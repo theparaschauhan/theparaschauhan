@@ -1,3 +1,7 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&fontSize=112&fontColor=FFFFFF&fontAlign=136&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=10000&descAlignY=1111&textBg=false&color=random"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Paras Chauhan</h1>
 <h3 align="center">A Passionate Unity & Frontend Developer from India</h3>
 
@@ -61,10 +65,6 @@ I’m enthusiastic about **game development**, **frontend technologies**, and **
   <img src="https://streak-stats.demolab.com?user=theparaschauhan&theme=dracula" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theparaschauhan&layout=compact&theme=dracula" height="150" alt="languages graph" />
 </div>
-
----
-
-<img src="https://raw.githubusercontent.com/theparaschauhan/theparaschauhan/output/snake.svg" alt="Snake animation" />
 
 ---
 
