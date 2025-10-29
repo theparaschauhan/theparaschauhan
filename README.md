@@ -2,10 +2,10 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&fontSize=112&fontColor=FFFFFF&fontAlign=136&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=10000&descAlignY=1111&textBg=false&color=random"  />
 </div>
 
-<h1 align="center">Hi 👋, I'm Paras Chauhan</h1>
-<h3 align="center">A Passionate Unity & Frontend Developer from India</h3>
 
----
+<h2 align="center">Hi👋, I'm Paras Chauhan</h2>
+<h3 align="center">A Passionate Unity & WYSIWYG Developer </h3>
+
 
 ### 👨‍💻 About Me
 
