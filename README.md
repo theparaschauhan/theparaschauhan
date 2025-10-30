@@ -31,18 +31,19 @@
 
 ### 🛠️ Skills & Tools
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=unity,cs,c,html,css,git,wordpress" height="60" alt="skills logos" />
-</div>
-
 - **Game Development**: Unity, C#  
 - **Frontend**: HTML, CSS  
 - **Version Control**: Git & GitHub  
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=unity,cs,c,html,css,git,wordpress" height="60" alt="skills logos" />
+</div>
+
+
 ---
 
 ### 🎓 Certifications
-- **Unity Junior Programmer (2024)** – *Unity Technologies*  
+- [**Unity Junior Programmer (2024)** – *Unity Technologies*](https://www.credly.com/badges/01a3a9c3-08b5-4a70-9aa5-d14d4b8c6ca9/)  
 
 ---
 
