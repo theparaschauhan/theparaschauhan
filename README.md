@@ -33,6 +33,7 @@
 
 - **Game Development**: Unity, C#  
 - **Frontend**: HTML, CSS  
+- **WYSIWYG**: Wordpress, Zenler, Wix, SquareSpace  
 - **Version Control**: Git & GitHub  
 
 <div align="left">
