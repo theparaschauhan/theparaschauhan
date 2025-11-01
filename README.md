@@ -72,7 +72,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theparaschauhan&layout=compact&theme=radical&border_radius=10" height="160" alt="languages graph" />
 </div>
 
----
-
-### ✨ Fun Fact
-Outside of coding, I love experimenting with design ideas, gaming for inspiration, and discovering new software that sparks creativity in development.
