@@ -44,7 +44,7 @@
 ---
 
 ### 🎓 Certifications
-- [**Unity Junior Programmer (2024)** – *Unity Technologies*](https://www.credly.com/badges/01a3a9c3-08b5-4a70-9aa5-d14d4b8c6ca9/)  
+- [**Unity Junior Programmer (January 2025)** – *Unity Technologies*](https://www.credly.com/badges/01a3a9c3-08b5-4a70-9aa5-d14d4b8c6ca9/)  
 
 ---
 
