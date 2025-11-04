@@ -63,12 +63,5 @@
   </a>
 </p>
 
----
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theparaschauhan&show_icons=true&theme=radical&border_radius=10" height="160" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=theparaschauhan&theme=radical&border_radius=10" height="160" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theparaschauhan&layout=compact&theme=radical&border_radius=10" height="160" alt="languages graph" />
-</div>
 
