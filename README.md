@@ -49,12 +49,37 @@
 ---
 
 ### 📫 Connect with Me
+
 📧 **theparaschauhan@gmail.com**
-<p align="left">
-<a href="https://www.linkedin.com/in/paras-chauhan-447b0b253/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a>
-<a href="https://www.codechef.com/users/chauhanparas" target="_blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?style=for-the-badge&&logo=Codechef&logoColor=white" height="28" style="margin-right: 4px"></a> 
-<a href="https://github.com/theparaschauhan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> 
-<a href="https://twitter.com/theparaschauhan" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a>
-<a href="https://www.hackerrank.com/paraschauhan066" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="paraschauhan066" height="28" style="margin-right: 4px" /></a>
-</p>
+
+<a href="https://www.linkedin.com/in/paras-chauhan-447b0b253/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
+</a>
+<br>
+  
+<a href="https://www.codechef.com/users/chauhanparas" target="_blank">
+<img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?style=for-the-badge&&logo=Codechef&logoColor=white" height="28" style="margin-right: 4px">
+</a>
+<br>
+  
+<a href="https://github.com/theparaschauhan" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px">
+</a> 
+<br>
+  
+<a href="https://twitter.com/theparaschauhan" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px">
+</a>
+<br>
+
+<a href="https://www.hackerrank.com/paraschauhan066" target="blank">
+<img src="https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/6765dc51a13e31531996cef3_logo-dark.svg" alt="paraschauhan066" height="28" style="margin-right: 4px" />
+</a>
+<br>
+
+<a href="https://labex.io/users/paras-chauhan-37814742" target="blank">
+<img src="https://file.labex.io/static/labex-logo-dark.svg" height="28" style="margin-right: 4px">
+</a>
+<br>
+
 
