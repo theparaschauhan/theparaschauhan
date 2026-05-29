@@ -19,13 +19,16 @@
 
 ### 🌱 Currently Learning
 - Drag & Drop Website Builder Tools  
-- Trying to learn Advanced Unity Techniques and Performance Optimization  
+- Trying to learn Advanced Unity Techniques and Performance Optimization
+- Devops - Virtualization, Linux etc 
 
 ---
 
-### 🔭 Current Project
+### 🔭 Projects
 - [Shammi Nanda Website](https://www.shamminanda.com/)  [Using Zenler]
-- Slingshot Game Project – Unity 2022 upgrade, QR system, and bug fixes  
+- Slingshot Game Project – Unity 2022 upgrade, QR system, and bug fixes (01-07-2024 to 30-08-2025)
+- [Cake Kingdom](https://play.google.com/store/apps/details?id=com.cakekingdom.thinkwolf/) - made with unity 6 and publish on playstore and appstore
+- [Kitty Merger](https://play.google.com/store/apps/details?id=com.cattycoon.thinkwolf/) - made with unity 2022 and publish on playstore and appstore
 
 ---
 
