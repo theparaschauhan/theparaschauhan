@@ -27,8 +27,8 @@
 ### 🔭 Projects
 - [Shammi Nanda Website](https://www.shamminanda.com/)  [Using Zenler]
 - Slingshot Game Project – Unity 2022 upgrade, QR system, and bug fixes (01-07-2024 to 30-08-2025)
-- [Cake Kingdom](https://play.google.com/store/apps/details?id=com.cakekingdom.thinkwolf/) - made with unity 6 and publish on playstore and appstore
-- [Kitty Merger](https://play.google.com/store/apps/details?id=com.cattycoon.thinkwolf/) - made with unity 2022 and publish on playstore and appstore
+- Cake Kingdom - made with unity 6 and publish on [playstore](https://play.google.com/store/apps/details?id=com.cakekingdom.thinkwolf) and [appstore](https://apps.apple.com/in/app/cake-kingdom/id6760659623)
+- Kitty Merger - made with unity 2022 and publish on [playstore](https://play.google.com/store/apps/details?id=com.cattycoon.thinkwolf) and [appstore](https://apps.apple.com/in/app/kitty-merger-idle-cat-tycoon/id6766079568)
 
 ---
 
