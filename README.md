@@ -65,11 +65,6 @@
 </a>
 <br>
   
-<a href="https://github.com/theparaschauhan" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px">
-</a> 
-<br>
-  
 <a href="https://twitter.com/theparaschauhan" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px">
 </a>
