@@ -50,26 +50,12 @@
 - [**Unity Junior Programmer (January 2025)** – *Unity Technologies*](https://www.credly.com/badges/01a3a9c3-08b5-4a70-9aa5-d14d4b8c6ca9/)  
 
 ---
-
-### 📫 Connect with Me
-
-📧 **theparaschauhan@gmail.com**
-
-<a href="https://www.linkedin.com/in/paras-chauhan-447b0b253/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
-</a>
-<br>
   
 <a href="https://www.codechef.com/users/chauhanparas" target="_blank">
 <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?style=for-the-badge&&logo=Codechef&logoColor=white" height="28" style="margin-right: 4px">
 </a>
 <br>
   
-<a href="https://twitter.com/theparaschauhan" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px">
-</a>
-<br>
-
 <a href="https://www.hackerrank.com/paraschauhan066" target="blank">
 <img src="https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/6765dc51a13e31531996cef3_logo-dark.svg" alt="paraschauhan066" height="28" style="margin-right: 4px" />
 </a>
